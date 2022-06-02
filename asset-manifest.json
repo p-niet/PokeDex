@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/PeactDex/static/css/main.3ba76cc8.chunk.css",
+    "main.js": "/PeactDex/static/js/main.968261c3.chunk.js",
+    "main.js.map": "/PeactDex/static/js/main.968261c3.chunk.js.map",
+    "runtime-main.js": "/PeactDex/static/js/runtime-main.91a4a253.js",
+    "runtime-main.js.map": "/PeactDex/static/js/runtime-main.91a4a253.js.map",
+    "static/css/2.5c08c848.chunk.css": "/PeactDex/static/css/2.5c08c848.chunk.css",
+    "static/js/2.91e152f4.chunk.js": "/PeactDex/static/js/2.91e152f4.chunk.js",
+    "static/js/2.91e152f4.chunk.js.map": "/PeactDex/static/js/2.91e152f4.chunk.js.map",
+    "static/js/3.f3e700c5.chunk.js": "/PeactDex/static/js/3.f3e700c5.chunk.js",
+    "static/js/3.f3e700c5.chunk.js.map": "/PeactDex/static/js/3.f3e700c5.chunk.js.map",
+    "index.html": "/PeactDex/index.html",
+    "static/css/2.5c08c848.chunk.css.map": "/PeactDex/static/css/2.5c08c848.chunk.css.map",
+    "static/css/main.3ba76cc8.chunk.css.map": "/PeactDex/static/css/main.3ba76cc8.chunk.css.map",
+    "static/js/2.91e152f4.chunk.js.LICENSE.txt": "/PeactDex/static/js/2.91e152f4.chunk.js.LICENSE.txt",
+    "static/media/pattern.d366c994.png": "/PeactDex/static/media/pattern.d366c994.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.91a4a253.js",
+    "static/css/2.5c08c848.chunk.css",
+    "static/js/2.91e152f4.chunk.js",
+    "static/css/main.3ba76cc8.chunk.css",
+    "static/js/main.968261c3.chunk.js"
+  ]
+}
